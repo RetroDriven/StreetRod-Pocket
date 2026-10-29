@@ -1,0 +1,5 @@
+#ifndef SR_POCKET_DATA_CONFIG_H
+#define SR_POCKET_DATA_CONFIG_H
+#define SR_POCKET_DATA_FILES 1
+#define SR_POCKET_EXE_FILE 1
+#endif
