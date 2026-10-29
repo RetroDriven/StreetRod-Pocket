@@ -1,5 +1,9 @@
 # Street Rod for Analogue Pocket
 
+<p align="center">
+  <img src="Banner.webp" alt="Street Rod Banner" width="528">
+</p>
+
 An openFPGA port of **Street Rod (1989)** and its **Special Edition (SE) data-disk cars**, maintained by **RetroDriven**. Built with the [openfpgaOS SDK](https://github.com/openfpgaOS/openfpgaSDK), using [Krzysztof Kania's reverse-engineered C engine](https://github.com/kylofon/street-rod-sdl3).
 
 > **Bring your own original DOS game files.** Neither this repository nor the Pocket core release includes the original game executable, car libraries, or game resources.
